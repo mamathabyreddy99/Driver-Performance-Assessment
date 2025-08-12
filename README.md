@@ -190,12 +190,4 @@ google-colab
 - Save raw detections under `outputs/detections/` and Gemini responses under `outputs/reports/`.
 - For headless servers, use `opencv-python-headless`.
 
----
-
-## Contributing
-Issues and PRs welcome! Please include a short description, reproduction steps, and environment details.
-
----
-
-## License
-MIT (or choose another). Add a `LICENSE` file if you want others to reuse the code.
+.
