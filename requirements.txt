@@ -1,0 +1,11 @@
+ipython
+matplotlib
+numpy
+opencv-python
+pandas
+pillow
+ray
+seaborn
+tqdm
+ultralytics
+google-generativeai
