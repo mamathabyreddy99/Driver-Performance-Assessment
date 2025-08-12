@@ -19,5 +19,4 @@ runs/
 models/*.pt
 outputs/*
 !outputs/.gitkeep
-data/*
-!data/.gitkeep
+
